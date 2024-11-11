@@ -2,7 +2,7 @@ import React from 'react'
 
 function Home() {
   return (
-    <div>Home</div>
+   <h2 className='text-9xl mt-10 text-center'>Home Page</h2>
   )
 }
 
