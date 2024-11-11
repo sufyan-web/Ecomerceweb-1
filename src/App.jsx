@@ -1,10 +1,12 @@
-
+import Banner from "./components/header/Banner"
+import Navbar from "./components/header/Navbar"
 function App() {
  
 
   return (
     <>
-     <h2 className="bg-red-500">Hello World</h2>
+    <Banner/>
+    <Navbar/>
     </>
   )
 }
